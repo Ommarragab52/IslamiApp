@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">إسلامي</string>
+    <string name="islami_label">إسلامى</string>
+    <string name="quran_label">قرآن</string>
+    <string name="hadeth_label">أحاديث</string>
+    <string name="sebha_label">سبحه</string>
+    <string name="radio_label">راديو</string>
+    <string name="sura_name_label">أسم السورة</string>
+    <string name="sura_number_label">رقم السورة</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IslamiApp</string>
+    <string name="quran_label">Quran</string>
+    <string name="hadeth_label">Hadeth</string>
+    <string name="sebha_label">Sebha</string>
+    <string name="radio_label">Radio</string>
+    <string name="islami_label">Islami</string>
+    <string name="sura_name_label">Sura name</string>
+    <string name="sura_number_label">Sura number</string>
+    <string name="moshaf_image_description">moshaf image</string>
+    <string name="radio_channel_label">إذاعة القرآن الكريم</string>
+</resources>
